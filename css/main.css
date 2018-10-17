@@ -4,7 +4,7 @@ body {
 }
 img {
     float: right;
-    padding: 25px 25px 25px 25px;
+    padding: 0px 25px 25px 25px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

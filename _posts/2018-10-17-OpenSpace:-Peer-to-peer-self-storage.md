@@ -6,7 +6,9 @@ date: 2018-10-17
 
 I've spent a lot of my time in the last few months developing a startup. I was lucky enough to participate in the Melissa and Doug Entrepreneurship program last summer which gave me a grant to work on the project full time. This past weekend I built part of the web app at Hack Duke. It was a ton of fun, and my team won "Best Project Hack". I'm a huge fan of hackathons, its always fun to come together with a group of people who are as passionate about something as you are. We are building the website using Meteor, which is a full stack JavaScript platform that uses MongoDB for the backend. It is a really cool framework, great for prototyping rapidly. In the future we might try ot port it to something more efficient, but for now I'm having a ton of fun working with it. This is what the main user interface currently looks like:
 ![OpenSpace](/assets/OpenSpace_Layout.png)
-
+<img src=/assets/OpenSpace_Layout.png
+     alt=OpenSpace
+     style="float: center; margin-top: 10px; margin-bottom: 10px" />
 
 In any case, here is the "pitch" for my idea: 
 
