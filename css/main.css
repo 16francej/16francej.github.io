@@ -2,11 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-img {
+.headshot {
     float: right;
     padding: 0px 25px 25px 25px;
     height: auto;
-    width: 100px;
+    width: 150px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
