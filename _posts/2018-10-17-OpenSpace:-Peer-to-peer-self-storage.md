@@ -8,6 +8,7 @@ I've spent a lot of my time in the last few months developing a startup. I was l
 <img src="/assets/OpenSpace_Layout.png"
      alt="OpenSpace"
      style="float: center; margin-top: 10px; margin-bottom: 10px;" width='auto' height='400'>
+
 In any case, here is the "pitch" for my idea: 
 
 Anyone who has dealt with self-storage knows how painful the process can be. While current storage options all have positives, each has their flaws.
