@@ -4,6 +4,8 @@ title: "Yourinalyis (Apologies for the pun): IOT Urinalysis Device"
 date: 2017-10-28
 ---
 
+Devpost Link: https://devpost.com/software/yourinalysis
+
 ## Inspiration
 The information contained in urine about a person's health is incredibly useful, though there exists no easy way for the everyday person to gain this insight. I have always been interested in using data from the body to monitor my health, and this was an extension of that. I wanted to make a urinalysis device that didn't rely on expensive medical laboratories, but instead allowed people to bring these labs to their own toilet: without having to replace it. 
 
