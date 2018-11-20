@@ -9,6 +9,7 @@ I decided to make a bot AI for the programming game [Robocode](http://robowiki.n
 Check my robot out in action at the links below: 
 
 https://www.youtube.com/watch?v=QeSxsuZ-kws&t=8s
+
 https://www.youtube.com/watch?v=9PadLRQHhak
 
 ### Targeting
