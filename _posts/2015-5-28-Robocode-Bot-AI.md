@@ -8,9 +8,9 @@ I decided to make a bot AI for the programming game [Robocode](http://robowiki.n
 
 Check my robot out in action at the links below: 
 
-https://www.youtube.com/watch?v=QeSxsuZ-kws&t=8s
+[Video 0](https://www.youtube.com/watch?v=QeSxsuZ-kws&t=8s)
 
-https://www.youtube.com/watch?v=9PadLRQHhak
+[Video 1](https://www.youtube.com/watch?v=9PadLRQHhak)
 
 ### Targeting
 I used a predictive targeting method called "Guess Factor" to statistically generate a good firing angle based on the current and previous movement of my opponent. It generates the minimum and maximum possible angles of firing based on the top speed of the other bot for the current distance, and calculates the angle in that range to fire. The robot logs its opponents angle relative to the last calculation every step, and then fires depending on the target's current bearing offset and position in relation to previous data. 
