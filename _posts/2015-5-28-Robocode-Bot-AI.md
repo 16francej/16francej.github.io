@@ -7,6 +7,7 @@ date: 2015-5-28
 I decided to make a bot AI for the programming game [Robocode](http://robowiki.net/wiki/Main_Page). The code for my bots can be found [here](https://github.com/16francej/My-first-bot/tree/master/src). 
 
 Check my robot out in action at the links below: 
+
 https://www.youtube.com/watch?v=QeSxsuZ-kws&t=8s
 https://www.youtube.com/watch?v=9PadLRQHhak
 
