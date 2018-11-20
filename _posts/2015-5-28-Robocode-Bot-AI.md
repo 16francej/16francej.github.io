@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Making a bot AI for the competition Robocode"
+title: "Making a Bot AI For the Competition: Robocode"
 date: 2015-5-28
 ---
