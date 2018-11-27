@@ -3,6 +3,9 @@ layout: post
 title: "CircleSwiper: A Game for iOS"
 date: 2017-8-3
 ---
+
+Live demo: https://youtu.be/N-RbBzLItNM
+
 ### Intro
 I spent most of the summer after my Freshman year in Guatemala repairing medical equipment, but after coming back to the US I had a month left
 of summer and a lot of free time. I decided to explore app development, and completed the online course: "Developing iOS 10 Apps With Swift" by Profressor Paul Hegarty
