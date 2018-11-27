@@ -7,7 +7,7 @@ date: 2017-8-3
 Live demo: https://youtu.be/N-RbBzLItNM
 
 ### Intro
-I spent most of the summer after my Freshman year in Guatemala repairing medical equipment, but after coming back to the US I had a month left
+I spent most of the summer after my freshman year in Guatemala repairing medical equipment, but after coming back to the US I had a month left
 of summer and a lot of free time. I decided to explore app development, and completed the online course: "Developing iOS 10 Apps With Swift" by Profressor Paul Hegarty
 at Stanford. Overall I enjoyed the course, I liked how he incorporated lessons about overall program design along with Swift and Xcode. It was sometimes
 frustrating to not be able to ask questions, but I was able to find most answers through the discussion forums. You make a few different apps throughout the couse, and after
