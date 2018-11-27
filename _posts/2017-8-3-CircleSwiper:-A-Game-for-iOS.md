@@ -3,7 +3,7 @@ layout: post
 title: "CircleSwiper: A Game for iOS"
 date: 2017-8-3
 ---
-
+### Intro
 I spent most of the summer after my Freshman year in Guatemala repairing medical equipment, but after coming back to the US I had a month left
 of summer and a lot of free time. I decided to explore app development, and completed the online course: "Developing iOS 10 Apps With Swift" by Profressor Paul Hegarty
 at Stanford. Overall I enjoyed the course, I liked how he incorporated lessons about overall program design along with Swift and Xcode. It was sometimes
@@ -15,7 +15,6 @@ CircleSwiper is a game where a player races to swipe circles off of their screen
 of simple game designs that are popular on the app store, and wanted to build one of my own. Here are some photos of the project: 
 
 ![](https://i.imgur.com/OVum1ed.png)
-![](https://i.imgur.com/60jkmVe.png)
 ![](https://i.imgur.com/3K48ktj.png)
 
 ### Challenges
