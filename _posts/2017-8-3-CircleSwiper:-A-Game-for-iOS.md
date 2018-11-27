@@ -14,8 +14,8 @@ finishing I wanted to build something of my own.
 CircleSwiper is a game where a player races to swipe circles off of their screen, while avoiding red squres that pop up as time goes on. I was inspired by the trend
 of simple game designs that are popular on the app store, and wanted to build one of my own. Here are some photos of the project: 
 
-![](https://i.imgur.com/OVum1ed.png)
-![](https://i.imgur.com/3K48ktj.png)
+![](https://i.imgur.com/OVum1ed.png =250x)
+![](https://i.imgur.com/3K48ktj.png =250x)
 
 ### Challenges
 If a circle initially spawned onto a square, the user would immediately lose for something that was not their fault. This obviously isn't a great game mechanic,
