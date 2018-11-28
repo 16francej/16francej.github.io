@@ -4,7 +4,7 @@ title: "CircleSwiper: A Game for iOS"
 date: 2017-8-3
 ---
 
-Live demo: [https://youtu.be/N-RbBzLItNM]
+Live demo: [](https://youtu.be/N-RbBzLItNM)
 
 ## Intro
 I spent most of the summer after my freshman year in Guatemala repairing medical equipment, but after coming back to the US I had a month left
