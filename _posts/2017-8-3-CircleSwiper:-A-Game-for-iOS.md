@@ -15,7 +15,7 @@ finishing I wanted to build something of my own.
 
 ## Overview
 CircleSwiper is a game where a player races to swipe circles off of their screen, while avoiding red squres that pop up as time goes on. I was inspired by the trend
-of simple game designs that are popular on the app store, and wanted to build one of my own. Here are some photos of the project: 
+of simple game designs that are popular on the app store, and wanted to build one of my own. I decided not to release this on the app store after becoming aware of the $100/year fee. Here are some photos of the project: 
 
 ![](https://i.imgur.com/Gx0MH7w.png)
 ![](https://i.imgur.com/BaasCD6.png)
