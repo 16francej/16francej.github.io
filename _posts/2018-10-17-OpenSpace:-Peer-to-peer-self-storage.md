@@ -12,7 +12,9 @@ I've spent a lot of my time in the last few months developing a startup. I was l
      alt="OpenSpace"
      style="float: center; margin-top: 10px; margin-bottom: 10px;" width='auto' height='400'>
      
-![](https://i.imgur.com/KHflvTd.jpg)
+<img src="/assets/demoday.jpg"
+     alt="Pitching"
+     style="float: center; margin-top: 10px; margin-bottom: 10px;" width='auto' height='400'>
 
 In any case, here is the "pitch" for my idea: 
 
