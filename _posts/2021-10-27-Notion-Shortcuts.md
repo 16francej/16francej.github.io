@@ -5,3 +5,4 @@ date: 2021-10-27
 ---
 
 Move a bullet point left: shift+tab
+Move a bullet point right: tab
